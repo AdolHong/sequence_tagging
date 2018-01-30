@@ -13,8 +13,11 @@ rasa.ai开源的聊天框架rasa_nlu与rasa_core，可以直接用于部署任�
 
 # requirements:
 Numpy 
+
 pytorch-crf
+
 pytorch
+
 tensorboardX
 
 # 代码使用

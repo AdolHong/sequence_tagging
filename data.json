@@ -1,0 +1,260 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "entities": [],
+                "text": "倒计时剩下多少时间"
+            },
+            {
+                "entities": [],
+                "text": "帮我定个计时器"
+            },
+            {
+                "entities": [],
+                "text": "取消倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "十分钟"
+                    }
+                ],
+                "text": "设十分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "十五分"
+                    }
+                ],
+                "text": "设十五分计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "15分"
+                    }
+                ],
+                "text": "设15分计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "10分钟"
+                    }
+                ],
+                "text": "设10分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "30分"
+                    }
+                ],
+                "text": "设30分计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "20分钟"
+                    }
+                ],
+                "text": "设20分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "三十分钟"
+                    }
+                ],
+                "text": "设三十分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "30分钟"
+                    }
+                ],
+                "text": "设30分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "十五分钟"
+                    }
+                ],
+                "text": "设十五分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "15秒"
+                    }
+                ],
+                "text": "设15秒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "15分钟"
+                    }
+                ],
+                "text": "设15分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "5分钟"
+                    }
+                ],
+                "text": "设5分钟计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "一个小时"
+                    }
+                ],
+                "text": "设一个小时计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "三十分"
+                    }
+                ],
+                "text": "设三十分计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "十分钟"
+                    }
+                ],
+                "text": "设十分钟倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "十五分"
+                    }
+                ],
+                "text": "设十五分倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "15分"
+                    }
+                ],
+                "text": "设15分倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "10分钟"
+                    }
+                ],
+                "text": "设10分钟倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 4,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "30分"
+                    }
+                ],
+                "text": "设30分倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "20分钟"
+                    }
+                ],
+                "text": "设20分钟倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "三十分钟"
+                    }
+                ],
+                "text": "设三十分钟倒计时"
+            },
+            {
+                "entities": [
+                    {
+                        "end": 5,
+                        "entity": "PERIOD",
+                        "start": 1,
+                        "value": "30分钟"
+                    }
+                ],
+                "text": "设30分钟倒计时"
+            }
+       ]
+    }
+}

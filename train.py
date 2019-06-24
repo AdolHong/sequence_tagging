@@ -74,5 +74,5 @@ if __name__ == '__main__':
                                                'eval': eval_loss,
                                                'test': test_loss}, epoch)
 
-        with open(f"model/model_epoch_{epoch}.pkl", "wb") as f:
+        with open(f"models/model_epoch_{epoch}.pkl", "wb") as f:
             pickle.dump((model, char_encoder, tag_encoder), f)

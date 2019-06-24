@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.autograd import Variable
-from torchcrf import CRF
+from crf import CRF
 
 PAD = "<PAD>"
 UNK = "<UNK>"

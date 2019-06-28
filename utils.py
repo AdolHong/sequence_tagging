@@ -16,7 +16,7 @@ class LabelEncoder:
         return len(self.label_to_idx.keys())
 
     def add(self, label):
-        if label not in self.label_to_idx.keys():
+        if label not in self.label_to_idx:
             self.idx_to_label[len(self.label_to_idx)] = label
             self.label_to_idx[label] = len(self.label_to_idx)
 
